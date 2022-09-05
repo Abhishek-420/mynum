@@ -1,5 +1,5 @@
 package calc
 
-func Subst(i int, j int) int {
+func SubSt(i int, j int) int {
 	return i - j
 }
